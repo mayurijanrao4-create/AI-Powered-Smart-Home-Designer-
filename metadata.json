@@ -1,0 +1,8 @@
+{
+  "name": "AI-Powered Smart Home Designer",
+  "description": "An intelligent plot-to-3D residential house planning CAD and visualization application with dimensionally consistent 2D floor plans, interactive 3D model, sectional cutaways, and cost estimation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
